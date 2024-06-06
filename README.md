@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pietro</h1>
-<h3 align="center">A beginner full stack developer from Brazil</h3>
+<h3 align="center">A Junior full stack developer from Brazil</h3>
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **React** and **Django**
 
 - 👨‍💻 All of my projects are available at [https://github.com/pizardini](https://github.com/pizardini)
 
